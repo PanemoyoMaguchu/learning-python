@@ -19,6 +19,8 @@ elif CnvrtTo=="usd" and CnvrtFrom=="pounds":
     cashout= ammountin /1.22
     input=("your cashout is :"and cashout)
 
+print("Hello")
+
 
 
 
